@@ -1,0 +1,25 @@
+{
+  "name": "great-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom76kimo/great-app.git"
+  },
+  "author": "tom76kimo <tom76kimo@gmail.com> (http://tom76kimo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tom76kimo/great-app/issues"
+  },
+  "homepage": "https://github.com/tom76kimo/great-app#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "npm": "6.2.x"
+  }
+}
